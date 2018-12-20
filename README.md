@@ -1,0 +1,1 @@
+# Stardock Trial Reset Script
